@@ -1,0 +1,29 @@
+# Front Door AI Index — jabil — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: jabil
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.jabil.com
+  final_host: www.jabil.com
+  ownership: own
+  owner: jabil
+  shares_host_with:
+  - jabil-circuit
+  inherited_from: null
+  verdict: scored
+  score: 5
+  host_score: 5
+  density: 4.04
+  words: 1239
+  tiers:
+    agentic: 0
+    core: 5
+    model: 0
+  ambiguous: 20
+  top_terms:
+    automation: 12
+    smart: 6
+    AI: 5
+    intelligence: 2
